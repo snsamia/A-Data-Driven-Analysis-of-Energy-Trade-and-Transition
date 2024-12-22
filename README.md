@@ -54,7 +54,7 @@ This project provides a comprehensive exploratory analysis of energy usage in Ge
 
 ## 📈 **Visualizations**
 ### 1. Primary Energy Consumption
-![Primary Energy Consumption](https://github.com/snsamia/Healthcare-Analytics/blob/main/demo%20sktech.png)
+![Primary Energy Consumption](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition./blob/main/primary%20energy%20consumption.png)
 
 ### 2. Renewable Energy Share
 ![Renewable Energy Share](https://github.com/snsamia/Healthcare-Analytics/blob/main/demo%20sktech.png)
