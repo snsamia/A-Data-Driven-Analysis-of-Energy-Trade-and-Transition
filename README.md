@@ -54,16 +54,16 @@ This project provides a comprehensive exploratory analysis of energy usage in Ge
 
 ## 📈 **Visualizations**
 ### 1. Primary Energy Consumption
-![Primary Energy Consumption](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition./blob/main/primary%20energy%20consumption.png)
+![Primary Energy Consumption](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/image/primary%20energy%20consumption.png)
 
 ### 2. Renewable Energy Share
-![Renewable Energy Share](https://github.com/snsamia/Healthcare-Analytics/blob/main/demo%20sktech.png)
+![Renewable Energy Share](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/image/renewable%20energy%20share.png)
 
 ### 3. Carbon Intensity of Electricity
-![Carbon Intensity](https://github.com/snsamia/Healthcare-Analytics/blob/main/demo%20sktech.png)
+![Carbon Intensity](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/image/carbon%20intensity.png)
 
 ### 4. Renewable vs. Non-Renewable Energy
-![Renewable vs Non-Renewable](https://github.com/snsamia/Healthcare-Analytics/blob/main/demo%20sktech.png)
+![Renewable vs Non-Renewable](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/image/renewable%20vs%20non%20renewable%20energy.png)
 
 ---
 
