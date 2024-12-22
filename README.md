@@ -51,7 +51,51 @@ This project provides a comprehensive exploratory analysis of energy usage in Ge
    - Germany outpaces the EU (27) in renewable energy adoption but still trails in reducing fossil fuel dependency.
 
 ---
+## Analysis Highlights
 
+### 1. **Primary Energy Consumption**
+- **Trend:** Germany's primary energy consumption trends were compared with the EU-27.
+- **Key Visualization:** A line chart showing annual primary energy consumption (TWh).
+
+![Primary Energy Consumption](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/primary_energy_consumption.png)
+
+### 2. **Renewable Energy Share**
+- **Trend:** The renewable energy share in total energy consumption has steadily increased in both Germany and the EU-27.
+- **Key Visualization:** Line chart tracking renewable energy share (%) over the years.
+
+![Renewable Share](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/renewable_energy_share.png)
+
+### 3. **Carbon Intensity of Electricity**
+- **Trend:** Carbon intensity (gCO2 per kWh) has decreased, indicating progress towards decarbonization.
+- **Key Visualization:** Comparative line chart for Germany and the EU-27.
+
+![Carbon Intensity](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/carbon_intensity.png)
+
+### 4. **Energy Consumption by Source**
+- **Insight:** The data reveals Germany's energy mix evolution, with significant contributions from wind and solar energy.
+- **Key Visualization:** Stacked area chart illustrating energy consumption by source (TWh).
+
+![Energy by Source](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/energy_by_source.png)
+
+### 5. **Renewable vs. Non-Renewable Energy**
+- **Insight:** Renewable energy sources have increasingly replaced non-renewable sources in Germany.
+- **Key Visualization:** Comparative line chart for renewable and non-renewable energy consumption.
+
+![Renewable vs Non-Renewable](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/renewable_vs_nonrenewable.png)
+
+### 6. **Energy Efficiency (Energy per GDP)**
+- **Insight:** Energy consumption per unit of GDP has improved, showcasing advancements in energy efficiency.
+- **Key Visualization:** Line chart showing energy consumption (TWh) per trillion USD of GDP.
+
+![Energy Efficiency](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/energy_efficiency.png)
+
+### 7. **Annual Change in Primary Energy Consumption**
+- **Insight:** Significant annual fluctuations highlight critical periods of policy changes and economic impacts.
+- **Key Visualization:** Line chart showing the annual percentage change in primary energy consumption.
+
+![Annual Change](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/annual_change.png)
+
+---
 ## 📈 **Visualizations**
 ### 1. Primary Energy Consumption
 ![Primary Energy Consumption](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/image/primary%20energy%20consumption.png)
@@ -67,4 +111,5 @@ This project provides a comprehensive exploratory analysis of energy usage in Ge
 
 ---
 
-## 📂 **Project Structure**
+## Acknowledgements
+Special thanks to [Our World in Data](https://ourworldindata.org/) for providing the energy dataset and the open-source tools community for enabling this analysis.
