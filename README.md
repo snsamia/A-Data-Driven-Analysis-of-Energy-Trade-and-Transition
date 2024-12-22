@@ -69,13 +69,13 @@ This project provides a comprehensive exploratory analysis of energy usage in Ge
 - **Trend:** Carbon intensity (gCO2 per kWh) has decreased, indicating progress towards decarbonization.
 - **Key Visualization:** Comparative line chart for Germany and the EU-27.
 
-![Carbon Intensity](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/carbon_intensity.png)
+![Carbon Intensity](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/image/carbon%20intensity.png)
 
 ### 4. **Energy Consumption by Source**
 - **Insight:** The data reveals Germany's energy mix evolution, with significant contributions from wind and solar energy.
 - **Key Visualization:** Stacked area chart illustrating energy consumption by source (TWh).
 
-![Energy by Source](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/image/carbon%20intensity.png)
+![Energy by Source](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/image/energy%20consumption%20by%20source.png)
 
 ### 5. **Renewable vs. Non-Renewable Energy**
 - **Insight:** Renewable energy sources have increasingly replaced non-renewable sources in Germany.
@@ -87,13 +87,9 @@ This project provides a comprehensive exploratory analysis of energy usage in Ge
 - **Insight:** Energy consumption per unit of GDP has improved, showcasing advancements in energy efficiency.
 - **Key Visualization:** Line chart showing energy consumption (TWh) per trillion USD of GDP.
 
-![Energy Efficiency](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/energy_efficiency.png)
+![Energy Efficiency](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/image/energy%20consumption%20per%20unit%20gdp.png)
 
-### 7. **Annual Change in Primary Energy Consumption**
-- **Insight:** Significant annual fluctuations highlight critical periods of policy changes and economic impacts.
-- **Key Visualization:** Line chart showing the annual percentage change in primary energy consumption.
 
-![Annual Change](https://github.com/snsamia/A-Data-Driven-Analysis-of-Energy-Trade-and-Transition/blob/main/annual_change.png)
 
 
 
